@@ -35,6 +35,12 @@ h1 {
 
 #hat { top: 28px; left: 101px; z-index: 10;}
 
-#moustache { top: 189px; left: 91px; z-index: 5;}
+#moustache { top: 200px; left: 91px; z-index: 5;}
 
 #shoes { top: 297px; left: 46px;}
+
+#moustache_image {
+  top:300px;
+  
+}
+   
